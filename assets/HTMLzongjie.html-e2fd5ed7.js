@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,b as c}from"./app-5b71a32f.js";const n={},_=c("p",null,"HTML",-1),s=[_];function r(a,l){return o(),t("div",null,s)}const d=e(n,[["render",r],["__file","HTMLzongjie.html.vue"]]);export{d as default};
